@@ -51,4 +51,11 @@ The **Meteorological Data WebApp** allows users to:
 ---
 
 ## 📁 Project Structure
+📦 meteorological-webapp/
+├── static/ # CSS, logo, and assets
+│ └── style.css
+├── templates/
+│ └── index.html # Main UI layout with Jinja2 templating
+├── app.py # Flask server logic
+└── README.md # Project documentation
 
